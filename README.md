@@ -1,16 +1,58 @@
-## Hi there 👋
+# Hi 👋, I'm Vijay
 
-<!--
-**VIJAY-1326/VIJAY-1326** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💻 Web Developer | Frontend Enthusiast | Passionate Coder
 
-Here are some ideas to get you started:
+Welcome to my GitHub profile!
+I'm a passionate **Web Developer** who enjoys building responsive, user-friendly, and modern web applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+* 🌱 Currently improving my **Web Development** skills
+* 💻 Interested in **Frontend & Full-Stack Development**
+* 🛠️ Love building real-world web projects
+* 📚 Always learning new technologies
+* 🎯 Goal: Become a professional **Full-Stack Developer**
+* 🤝 Open to collaborating on interesting web projects
+
+## 🛠️ Skills & Technologies
+
+### Frontend
+
+* HTML5
+* CSS3
+* JavaScript
+* Responsive Web Design
+
+### Tools
+
+* Git
+* GitHub
+* VS Code
+
+## 📚 Currently Learning
+
+* JavaScript
+* React.js
+* Node.js
+* Modern Web Development
+
+## 📂 Projects
+
+Check out my repositories to see the projects I'm working on.
+
+👉 **GitHub:** @VIJAY-1326
+
+## 📈 My Goals
+
+* Build more real-world projects
+* Improve problem-solving skills
+* Learn modern JavaScript frameworks
+* Contribute to open-source projects
+* Become a Full-Stack Web Developer
+
+---
+
+### ⭐ Thanks for visiting my profile!
+
+**Keep Learning • Keep Coding • Keep Building 🚀**
+
