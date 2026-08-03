@@ -41,8 +41,18 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Git Bash](https://img.shields.io/badge/Git_Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
+---
+
+## 📚 Currently Learning
+
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![MERN Stack](https://img.shields.io/badge/MERN_Stack-3C873A?style=for-the-badge&logo=mongodb&logoColor=white)
+
+- ⚛️ **React.js**
+- 🟢 **Node.js**
+- 🌐 **MERN Stack** — MongoDB, Express.js, React.js & Node.js
 
 ---
 
@@ -59,8 +69,9 @@ Check out my repositories to see what I'm currently building.
 ## 🎯 My Goals
 
 - 🚀 Build professional web applications
-- ⚛️ Master **React**
+- ⚛️ Master **React.js**
 - 🟢 Learn **Node.js & Backend Development**
+- 🌐 Master the **MERN Stack**
 - ☕ Improve my **Java** skills
 - 💡 Improve my problem-solving skills
 - 📊 Build projects using **Power BI**
