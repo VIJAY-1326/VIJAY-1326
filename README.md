@@ -109,16 +109,16 @@ I'm continuously working on **Web Development, Programming, UI/UX, and Data Visu
 
 ## 🎯 Goals
 
- 🚀 Become a professional **Full-Stack Developer**
- ⚛️ Master **React.js**
- 🟢 Learn **Node.js & Backend Development**
- 🌐 Master the **MERN Stack**
- 💡 Improve **Problem Solving & Programming**
- ☕ Strengthen my **Java** skills
- 📊 Build interactive **Power BI Dashboards**
- 🎨 Improve my **UI/UX Design** skills
- 🌍 Contribute to **Open Source**
- 💼 Build production-ready web applications
+- 🚀 Become a professional **Full-Stack Developer**
+- ⚛️ Master **React.js**
+- 🟢 Learn **Node.js & Backend Development**
+- 🌐 Master the **MERN Stack**
+- 💡 Improve **Problem Solving & Programming**
+- ☕ Strengthen my **Java** skills
+- 📊 Build interactive **Power BI Dashboards**
+- 🎨 Improve my **UI/UX Design** skills
+- 🌍 Contribute to **Open Source**
+- 💼 Build production-ready web applications
 
 ---
 
