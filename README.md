@@ -140,9 +140,9 @@ I'm continuously working on **Web Development, Programming, UI/UX, and Data Visu
 
 ---
 
-<h3 align="center">
+<h1 align="center">
 ⭐ Keep Learning • Keep Coding • Keep Building 🚀
-</h3>
+</h1>
 
 <p align="center">
 Thanks for visiting my GitHub profile! 😊
