@@ -42,7 +42,7 @@ Currently exploring modern web technologies and working towards becoming a **Ful
 </a>
 
 <a href="https://www.instagram.com/vjaymalla13_/">
-  <img src="https://img.magnific.com/premium-vector/modern-badge-logo-instagram-icon_578229-124.jpg?style=flat&logo=instagram&logoColor=white" />
+  <img src="https://img.shields.io/badge/instagram-0077B5?style=flat&logo=instagram&logoColor=white" />
 </a>
 
 ---
