@@ -174,7 +174,7 @@ My projects focus on:
 
 ## 💡 What I Enjoy
 
-<h1 align="center">"I enjoy combining **coding, design, creativity, and problem solving** to
+<h1 align="center" padding: 20px>"I enjoy combining **coding, design, creativity, and problem solving** to
 create useful digital experiences."
 </h1>
 
