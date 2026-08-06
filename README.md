@@ -155,17 +155,6 @@ My projects focus on:
 
 ---
 
-## 📈 Contribution Graph
-
-<p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=VIJAY-1326&theme=github-compact&hide_border=true"
-    alt="Vijay's GitHub Activity Graph"
-  />
-</p>
-
----
-
 ## 🎯 Goals
 
 - 🚀 Become a professional **Full-Stack Developer**
