@@ -174,12 +174,11 @@ My projects focus on:
 
 ## 💡 What I Enjoy
 
-<h2 align="center">"I enjoy combining coding, design, creativity, and problem solving to
-create useful digital experiences."
-</h2>
+<p align="center">
+  <img src="https://img.shields.io/badge/I enjoy combining coding, design, creativity, and problem solving.-FF0000?style=for-the-badge">
+</p>
 
-<h2 align="center">I believe the best way to improve as a developer is simple:
-</h2>
+
 
 > **Learn → Build → Make Mistakes → Improve → Repeat 🚀**
 
