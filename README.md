@@ -174,10 +174,12 @@ My projects focus on:
 
 ## 💡 What I Enjoy
 
-I enjoy combining **coding, design, creativity, and problem solving** to
-create useful digital experiences.
+<h1 align="center">"I enjoy combining **coding, design, creativity, and problem solving** to
+create useful digital experiences."
+</h1>
 
-I believe the best way to improve as a developer is simple:
+<h2 align="center">I believe the best way to improve as a developer is simple:
+</h2>
 
 > **Learn → Build → Make Mistakes → Improve → Repeat 🚀**
 
