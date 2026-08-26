@@ -127,33 +127,7 @@ My projects focus on:
 
 ---
 
-## 📊 GitHub Stats
 
-<p align="center">
-  <img
-    width="48%"
-    src="https://github-readme-stats.vercel.app/api?username=VIJAY-1326&show_icons=true&theme=github_dark&hide_border=true"
-    alt="Vijay's GitHub Stats"
-  />
-  <img
-    width="48%"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=VIJAY-1326&layout=compact&theme=github_dark&hide_border=true"
-    alt="Vijay's Most Used Languages"
-  />
-</p>
-
----
-
-## 🔥 GitHub Streak
-
-<p align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=VIJAY-1326&theme=github-dark-blue&hide_border=true"
-    alt="GitHub Streak"
-  />
-</p>
-
----
 
 ## 🎯 Goals
 
