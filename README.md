@@ -55,47 +55,67 @@ I'm a passionate developer who loves building modern web applications, exploring
 <br clear="right"/>
 
 ---
-
-## 🛠️ SKILLS & TECHNOLOGIES
-
 <div align="center">
 
-### 💻 Programming Languages
-
-<img src="https://skillicons.dev/icons?i=c,cpp,java,js&theme=dark"/>
-
-<br/><br/>
-
-### 🌐 Frontend Development
-
-<img src="https://skillicons.dev/icons?i=html,css,react&theme=dark"/>
-
-<br/><br/>
-
-### ⚙️ Backend & Database
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb&theme=dark"/>
-
-<br/><br/>
-
-### 🔧 Development Tools
-
-<img src="https://skillicons.dev/icons?i=git,github,bash,vscode&theme=dark"/>
-
-<br/><br/>
-
-### 🎨 Design & Data Visualization
-
-<img src="https://skillicons.dev/icons?i=figma&theme=dark"/>
+<h2>◈ THE DEVELOPER ARSENAL</h2>
+<p><sub>CRAFTING DIGITAL EXPERIENCES WITH MODERN TECHNOLOGIES</sub></p>
 
 <br/>
 
-<img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white"/>
-<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+<h3>⌘ &nbsp; PROGRAMMING LANGUAGES</h3>
+<p><sub>CORE LOGIC • PROBLEM SOLVING</sub></p>
+<p>
+<img height="42" src="https://img.shields.io/badge/C-17243A?style=for-the-badge&logo=c&logoColor=A8C7FA"/>
+<img height="42" src="https://img.shields.io/badge/C%2B%2B-17243A?style=for-the-badge&logo=cplusplus&logoColor=38C8FF"/>
+<img height="42" src="https://img.shields.io/badge/JAVA-17243A?style=for-the-badge&logo=openjdk&logoColor=FFB45C"/>
+<img height="42" src="https://img.shields.io/badge/JAVASCRIPT-17243A?style=for-the-badge&logo=javascript&logoColor=FFE66D"/>
+</p>
+
+<hr width="75%"/>
+
+<h3>◈ &nbsp; FRONTEND ENGINEERING</h3>
+<p><sub>INTERFACES • INTERACTION • EXPERIENCE</sub></p>
+<p>
+<img height="42" src="https://img.shields.io/badge/HTML5-17243A?style=for-the-badge&logo=html5&logoColor=FF7043"/>
+<img height="42" src="https://img.shields.io/badge/CSS3-17243A?style=for-the-badge&logo=css3&logoColor=38BDF8"/>
+<img height="42" src="https://img.shields.io/badge/REACT-17243A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+</p>
+
+<hr width="75%"/>
+
+<h3>⚙ &nbsp; BACKEND & DATABASE</h3>
+<p><sub>SERVER • APIs • DATA MANAGEMENT</sub></p>
+<p>
+<img height="42" src="https://img.shields.io/badge/NODE.JS-17243A?style=for-the-badge&logo=nodedotjs&logoColor=78D68B"/>
+<img height="42" src="https://img.shields.io/badge/EXPRESS.JS-17243A?style=for-the-badge&logo=express&logoColor=FFFFFF"/>
+<img height="42" src="https://img.shields.io/badge/MONGODB-17243A?style=for-the-badge&logo=mongodb&logoColor=47C98A"/>
+</p>
+
+<hr width="75%"/>
+
+<h3>⌘ &nbsp; DEVELOPER TOOLS</h3>
+<p><sub>BUILD • DEBUG • DEPLOY</sub></p>
+<p>
+<img height="42" src="https://img.shields.io/badge/GIT-17243A?style=for-the-badge&logo=git&logoColor=F05032"/>
+<img height="42" src="https://img.shields.io/badge/GITHUB-17243A?style=for-the-badge&logo=github&logoColor=FFFFFF"/>
+<img height="42" src="https://img.shields.io/badge/GIT_BASH-17243A?style=for-the-badge&logo=gnubash&logoColor=FFFFFF"/>
+<img height="42" src="https://img.shields.io/badge/VS_CODE-17243A?style=for-the-badge&logo=visualstudiocode&logoColor=38BDF8"/>
+</p>
+
+<hr width="75%"/>
+
+<h3>✧ &nbsp; DESIGN & DATA VISUALIZATION</h3>
+<p><sub>CREATIVITY • VISUAL INTELLIGENCE</sub></p>
+<p>
+<img height="42" src="https://img.shields.io/badge/FIGMA-17243A?style=for-the-badge&logo=figma&logoColor=F24E1E"/>
+<img height="42" src="https://img.shields.io/badge/CANVA-17243A?style=for-the-badge&logo=canva&logoColor=00C4CC"/>
+<img height="42" src="https://img.shields.io/badge/POWER_BI-17243A?style=for-the-badge&logo=powerbi&logoColor=F2C811"/>
+</p>
+
+<br/>
+<p><sub>✦ LEARN · CREATE · INNOVATE ✦</sub></p>
 
 </div>
-
----
 
 ## 🌱 CURRENTLY LEARNING
 
