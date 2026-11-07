@@ -4,29 +4,25 @@
 <!--                 PREMIUM EDITION                        -->
 <!-- ====================================================== -->
 
-<div align="center">
+ <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:050816,40:111B35,100:00D9FF&height=200&section=header&text=VIJAY%20SAI%20MALLA&fontSize=42&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=WEB%20DEVELOPER%20%7C%20PROGRAMMER%20%7C%20UI%2FUX%20ENTHUSIAST&descAlignY=60&descSize=13"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rounded&height=190&color=0:080D1B,45:102D4D,75:352568,100:080D1B&text=VIJAY%20SAI%20MALLA&fontSize=46&fontColor=FFFFFF&fontAlignY=40&desc=SOFTWARE%20DEVELOPER%20%7C%20UI%2FUX%20ENTHUSIAST&descSize=14&descColor=9DEBFF&descAlignY=62&animation=fadeIn&stroke=35D9FF&strokeWidth=1"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&duration=2200&pause=700&color=45DFFF&center=true&vCenter=true&width=600&lines=Building+Digital+Experiences;Turning+Ideas+Into+Reality;Code+%7C+Create+%7C+Innovate" />
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2500&pause=900&color=00D9FF&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+Profile!;Web+Developer+%F0%9F%92%BB;Full+Stack+Development+Enthusiast;Creative+UI%2FUX+Explorer;Turning+Ideas+Into+Reality+%F0%9F%9A%80"/>
+<a href="https://github.com/VIJAY-1326"><img src="https://img.shields.io/badge/GITHUB-EXPLORE-111827?style=for-the-badge&logo=github&logoColor=FFFFFF"/></a>
+<a href="https://www.linkedin.com/in/vijay-sai-malla-6020453b7/"><img src="https://img.shields.io/badge/LINKEDIN-CONNECT-111827?style=for-the-badge&logo=linkedin&logoColor=0AABEF"/></a>
+<a href="YOUR_INSTAGRAM_URL"><img src="https://img.shields.io/badge/INSTAGRAM-FOLLOW-111827?style=for-the-badge&logo=instagram&logoColor=E4405F"/></a>
 
-<br/><br/>
+<br/>
 
-<a href="https://www.linkedin.com/in/vijay-sai-malla-6020453b7/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0D1117?style=for-the-badge&logo=linkedin&logoColor=00D9FF"/>
-</a>
-<a href="https://github.com/VIJAY-1326">
-<img src="https://img.shields.io/badge/GitHub-Follow-0D1117?style=for-the-badge&logo=github&logoColor=FFFFFF"/>
-</a>
-<a href="YOUR_INSTAGRAM_URL">
-<img src="https://img.shields.io/badge/Instagram-Follow-0D1117?style=for-the-badge&logo=instagram&logoColor=E4405F"/>
-</a>
+<img src="https://komarev.com/ghpvc/?username=VIJAY-1326&style=for-the-badge&color=17243A&label=PROFILE+VIEWS"/>
 
-<br/><br/>
+<br/>
 
-<img src="https://komarev.com/ghpvc/?username=VIJAY-1326&style=for-the-badge&color=101B35&label=PROFILE+VIEWS"/>
+<img width="75%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:00D9FF,50:8057FF,100:00D9FF"/>
 
 </div>
 
